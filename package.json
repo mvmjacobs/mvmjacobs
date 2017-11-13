@@ -1,6 +1,6 @@
 {
   "name": "mvmjacobs",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "All my personal contacts.",
   "main": "./info.json",
   "scripts": {
