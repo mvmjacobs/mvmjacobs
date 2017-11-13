@@ -1,0 +1,16 @@
+{
+	"name": "Marcos Vinicius Jacobs",
+	"about": "Agile developer. Always in love with open source projects.",
+	"website": "https://mrcs.io",
+	"github": "https://github.com/mvmjacobs",
+	"twitter": "https://twitter.com/mvmjacobs",
+	"linkedin": "https://linkedin.com/in/mvmjacobs",
+	"facebook": "https://facebook.com/mvmjacobs",
+	"company": [
+		{
+			"name": "Forlogic Software",
+			"position": "Full stack developer",
+			"website": "http://www.forlogic.net"
+		}
+	]
+}
