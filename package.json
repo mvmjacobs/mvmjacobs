@@ -16,5 +16,8 @@
   },
   "author": "Marcos Vinicius Jacobs",
   "license": "MIT",
-  "homepage": "https://github.com/mvmjacobs/mvmjacobs#README"
+  "homepage": "https://github.com/mvmjacobs/mvmjacobs#README",
+  "dependencies": {
+    "cat": "^0.2.0"
+  }
 }
