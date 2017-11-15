@@ -1,20 +1,22 @@
 {
-	"name": "Marcos Vinicius Jacobs",
-	"about": "Agile developer. Always in love with open source projects.",
-	"website": "https://mrcs.io",
-	"github": "https://github.com/mvmjacobs",
-	"twitter": "https://twitter.com/mvmjacobs",
-	"linkedin": "https://linkedin.com/in/mvmjacobs",
-	"facebook": "https://facebook.com/mvmjacobs",
-	"company": [
-		{
-			"name": "Forlogic Software",
-			"position": "Web Developer",
-			"website": "http://www.forlogic.net"
-		}
-	],
-	"skills": {
-		"main": [".NET C#", "Angular", "Typescript", "HTML5/CSS3", "Javascript", "GIT", "SQL Server"],
-		"familiar": ["ASP.NET MVC", "Windows Forms", "Node.js", "Angular.JS", "Java"]
-	}
+  "name": "Marcos Vinicius Jacobs",
+  "about": "Agile developer. Always in love with open source projects.",
+  "website": "https://mrcs.io",
+  "github": "https://github.com/mvmjacobs",
+  "twitter": "https://twitter.com/mvmjacobs",
+  "linkedin": "https://linkedin.com/in/mvmjacobs",
+  "facebook": "https://facebook.com/mvmjacobs",
+  "company": [
+    {
+      "name": "Forlogic Software",
+      "position": "Web Developer",
+      "website": "http://www.forlogic.net"
+    }
+  ],
+  "skills": {
+    "main": [".NET C#", "Angular", "Typescript", "HTML5/CSS3", "Javascript", "GIT", "SQL Server"],
+    "familiar": ["ASP.NET MVC", "Windows Forms", "Node.js", "Angular.JS", "Java"]
+  }
 }
+
+
