@@ -1,7 +1,7 @@
 {
   "name": "mvmjacobs",
   "version": "1.0.2",
-  "description": "All my personal contacts.",
+  "description": "All my contact information.",
   "main": "./info.json",
   "scripts": {
     "postinstall": "cat info.json"
