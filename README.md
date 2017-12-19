@@ -9,7 +9,7 @@ npm install mvmjacobs
 ```
 
 ## Credits
-Thanks to [Fernando Daciuk](https://github.com/fdaciuk/fdaciuk) for the ideia!
+Thanks to [Fernando Daciuk](https://github.com/fdaciuk) for the idea!
 
 ## License
 This repository is licensed under the [MIT License](https://github.com/mvmjacobs/mvmjacobs/blob/master/LICENSE.md).
