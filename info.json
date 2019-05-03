@@ -11,7 +11,7 @@
     "website": "http://www.forlogic.net"
   },
   "skills": {
-    "main": [ "Agile Methodoloigies", "Angular", "Typescript", "Javascript", "HTML", "CSS", ".NET C#", "SQL Server", "GIT" ],
+    "main": [ "Agile Methodologies", "Angular", "Typescript", "Javascript", "HTML", "CSS", ".NET C#", "SQL Server", "GIT" ],
     "familiar": [ "Google Material Design", "ASP.NET MVC", "Windows Forms", "Angular.JS", "Java", "ExtJS" ]
   }
 }
