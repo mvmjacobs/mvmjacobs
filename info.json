@@ -1,17 +1,17 @@
 {
   "name": "Marcos Vinicius Jacobs",
-  "about": "Tech lead and agile developer at ForLogic. Always in love with open source projects.",
+  "about": "R&D member at ForLogic. Always in love with open source projects.",
   "website": "https://mrcs.io",
   "github": "https://github.com/mvmjacobs",
   "twitter": "https://twitter.com/mvmjacobs",
   "linkedin": "https://linkedin.com/in/mvmjacobs",
   "job": {
     "name": "Forlogic Software Group",
-    "position": "Tech Lead",
+    "position": "R&D Developer",
     "website": "http://www.forlogic.net"
   },
   "skills": {
-    "main": [ "Agile Methodologies", "Angular", "Typescript", "Javascript", "HTML", "CSS", ".NET C#", "SQL Server", "GIT" ],
+    "main": [ "Angular", "Typescript", "Javascript", "HTML", "CSS", ".NET C#", "SQL Server", "GIT", "Agile Methodologies" ],
     "familiar": [ "Google Material Design", "ASP.NET MVC", "Windows Forms", "Angular.JS", "Java", "ExtJS" ]
   }
 }
