@@ -1,17 +1,17 @@
 {
   "name": "Marcos Vinicius Jacobs",
-  "about": "R&D member focused on front-end development at ForLogic. Always in love with open source projects.",
+  "about": "Senior software engineer at XP Inc., helping to transform the financial market to improve people's lives",
   "website": "https://mvmjacobs.io",
   "github": "https://github.com/mvmjacobs",
   "twitter": "https://twitter.com/mvmjacobs",
   "linkedin": "https://linkedin.com/in/mvmjacobs",
   "job": {
-    "name": "Forlogic Software Group",
-    "position": "Software Developer",
-    "website": "http://www.forlogic.net"
+    "name": "XP Inc.",
+    "position": "Senior Software Engineer",
+    "website": "https://www.xpi.com.br"
   },
   "skills": {
-    "main": [ "Angular", "Typescript", "Javascript", "HTML", "CSS", ".NET C#", "SQL Server", "GIT", "Agile Methodologies" ],
-    "familiar": [ "Google Material Design", "ASP.NET MVC", "Windows Forms", "Angular.JS", "Java", "ExtJS" ]
+    "main": [ ".NET Plataform", "Angular", "Typescript", "Javascript", "HTML", "CSS", "SQL Server", "GIT", "RabbitMQ", "Azure Service Bus", "Agile Methodologies" ],
+    "familiar": [ "Google Material Design", "ASP.NET MVC", "Windows Forms", "Angular.JS", "Java", "ExtJS", "Oracle", "Kibana", "Grafana" ]
   }
 }
