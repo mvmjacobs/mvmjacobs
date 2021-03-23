@@ -1,8 +1,5 @@
 # [@mvmjacobs](https://github.com/mvmjacobs/mvmjacobs)
 
-> Marcos Vinicius Jacobs.
-> R&D member focused on front-end development at ForLogic. Always in love with open source projects.
-
 To get my contact information run the following command:
 ```console
 npm install mvmjacobs
